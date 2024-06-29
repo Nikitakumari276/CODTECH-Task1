@@ -3,7 +3,7 @@ Company : CODTECH IT SOLUTIONS
 ID : CT08DS1348
 Domain : Web Development
 Duration : 1st june to 30th june 2024
-Montor : Mujbain Mohammad
+Mentor : Mujbain Mohammad
 
 Overview of the project
 
