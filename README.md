@@ -7,6 +7,9 @@ Mentor : Mujbain Mohammad
 
 Overview of the project
 
+Project : TO-DO LIST WEB APPLICATION(https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat![Screenshot (80)](https://github.com/Nikitakumari276/CODTECH-Task1/assets/173770782/84b26725-61e8-47db-aed2-b9c909e96b67)
+)
+
 Objective
 
 The objective of the ToDoList project typically involves creating a system for users to manage their tasks effectively.Todo Lists are the lists that we generally use to maintain our day-to-day tasks or list of everything that we have to do.It will help to achieve bigger goals by breaking into smaller tasks.
