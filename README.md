@@ -8,7 +8,6 @@ Mentor : Mujbain Mohammad
 Overview of the project
 
 Project : TO-DO LIST WEB APPLICATION![octocat](![Screenshot (80)](https://github.com/Nikitakumari276/CODTECH-Task1/assets/173770782/130b5b74-6319-4c4b-85b9-77a4b9be2d25)
-)
 
 Objective
 
